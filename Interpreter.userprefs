@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Interpreter\Interpreter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interpreter\DescartesParseTree.cs">
+    <Files>
+      <File FileName="Interpreter\Main.cs" Line="9" Column="10" />
+      <File FileName="Interpreter\Tokenizer.cs" Line="57" Column="1" />
+      <File FileName="Interpreter\DescartesParseTree.cs" Line="4" Column="4" />
+      <File FileName="Interpreter\RuntimeState.cs" Line="21" Column="44" />
+      <File FileName="Interpreter\Closure.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
